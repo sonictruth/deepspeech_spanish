@@ -1,5 +1,5 @@
 ## DeepSpeech Spanish Model Trainer
-This is a collection of scripts that will train a Spanish model from Common Voice dataset for Mozilla Deepspeech using a Nvidia Tensorflow GPU Docker container.
+This is a collection of scripts that will train a Deepspeech Spanish model from Common Voice dataset using a Nvidia Tensorflow GPU Docker container.
 
 1. Run `./build_docker.sh`
 2. Replace `/mnt/hdd` with `[/your/work/folder]` from  `./run_docker.sh`
