@@ -5,7 +5,7 @@ This is a collection of scripts to train spanish model for Mozilla Deepspeech us
 2. Replace `/mnt/hdd` with `/your/work/folder` in `./run_docker.sh` with your own work folder
 3. Download Spanish Common Voice dataset from `https://commonvoice.mozilla.org/en/datasets` untar as `/your/work/folder/es`
 4. Remove all the TSV from `/your/work/folder/es` files except `train.tsv` `dev.tsv` `test.tsv`
-5. Run `./build_docker.sh` 
+5. Run `./run_docker.sh` 
 
 #### Inside container
 1. `cd es_scripts`
