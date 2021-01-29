@@ -9,5 +9,5 @@ This is a collection of scripts to train spanish model for Mozilla Deepspeech us
 
 #### Inside container
 1. `cd es_scripts`
-2. `./prepare_using_audiomate.py` This will convert all the Common Voice mp3's to wav and generate CSV from TSV the output will be in `[/your/work/folder/]es_out`
+2. `./prepare_using_audiomate.py` This will convert all the Common Voice mp3's to wav and generate CSV's from TSV. The output will be availible in  `[/your/work/folder/]es_out` folder.
 2. `./start_train.sh` (if you get character errors CSV files from might still need some manual cleaning)
