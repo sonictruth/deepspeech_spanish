@@ -1,4 +1,4 @@
-## Deepspeech Spanish Trainer
+## DeepSpeech Spanish Model Trainer
 This is a collection of scripts to train spanish model for Mozilla Deepspeech using a Nvidia GPU Docker container.
 
 1. Run `./build_docker.sh`
